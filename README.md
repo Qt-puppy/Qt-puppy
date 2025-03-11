@@ -1,7 +1,7 @@
-## Hi there 👋 I'm Kavin 
+### Hi there 👋 I'm Kavin 
 🚀 Machine Learning Enthusiast | Android Developer | Open Source Contributor
 
-💡 About Me
+##💡 About Me
 
 🎓 B.Tech (Information Technology) student at Indian Institute Of Information Technology Una, passionate about Machine Learning and Android Development.
 
@@ -13,7 +13,7 @@
 
 🏆 Aspiring to contribute to Google Summer of Code (GSoC).
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Languages: Python, Kotlin, C++
 
@@ -23,7 +23,7 @@ Android Dev: Kotlin, XML, Firebase
 
 Tools & Platforms: Git, Docker, LangChain
 
-📬 Connect With Me
+##📬 Connect With Me
 
 💼 LinkedIn
 
