@@ -25,8 +25,8 @@ Tools & Platforms: Git, Docker, LangChain
 
 ## 📬 Connect With Me
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/kavin-moudgil-3283b9294/)
 
-📧 Email
+📧 [Email](kavomoudgil22@gmail.com)
 
 💙 Let's build amazing things together! 🚀
