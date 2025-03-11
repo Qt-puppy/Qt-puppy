@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 I'm Kavin 
+🚀 Machine Learning Enthusiast | Android Developer | Open Source Contributor
 
-<!--
-**Qt-puppy/Qt-puppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech (Information Technology) student at Indian Institute Of Information Technology Una, passionate about Machine Learning and Android Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Exploring Deep Learning, Computer Vision, and NLP.
+
+📱 Developing Android apps using Kotlin and Xml.
+
+🛠️ Open-source contributor, actively collaborating on exciting projects.
+
+🏆 Aspiring to contribute to Google Summer of Code (GSoC).
+
+🛠️ Tech Stack
+
+Languages: Python, Kotlin, C++
+
+ML & AI: PyTorch, scikit-learn, OpenCV
+
+Android Dev: Kotlin, XML, Firebase
+
+Tools & Platforms: Git, Docker, LangChain
+
+📬 Connect With Me
+
+💼 LinkedIn
+
+📧 Email
+
+💙 Let's build amazing things together! 🚀
