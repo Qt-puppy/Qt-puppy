@@ -17,12 +17,12 @@ Hi, I'm Kavin. I'm a pre-final year B.Tech student at IIIT Una. I spend most of 
 * **Albion:** A Data-Oriented execution engine. I focused on using contiguous memory pools to see how much I could improve cache locality and overall performance.
 
 ### Competitive Programming
-I spend a lot of time on competitive programming. I just really love solving challenging problems. You can find my profile on Codeforces (Peak Rating: 1827).
+I just really love solving challenging problems on Codeforces and Atcoder. Codeforces (Peak Rating: 1827).
 
 ### Outside of Code
-When I'm not coding, I like playing chess, watching anime, and reading philosophy. 
+When free, I like playing chess, watching anime, and reading philosophy. 
 
-Always happy to chat about systems architecture, a tough problem, or a good chess opening. Feel free to reach out!
+Always happy to chat about systems architecture, a tough problem, or a good chess match. Feel free to reach out!
 
 ---
 [LinkedIn](https://www.linkedin.com/in/kavo22/) | [Email](mailto:kavomoudgil22@gmail.com)
