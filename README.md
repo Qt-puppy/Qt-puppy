@@ -6,9 +6,9 @@ Hi, I'm Kavin. I'm a pre-final year B.Tech student at IIIT Una. I spend most of 
 ### Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Systems_Architecture-100000?style=for-the-badge&logo=abstract&logoColor=white" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Algorithms-24292E?style=for-the-badge&logo=codeforces&logoColor=white" alt="Algorithms" />
   <img src="https://img.shields.io/badge/Linux_Internals-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Algorithms-24292E?style=for-the-badge&logo=codeforces&logoColor=white" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Systems_Architecture-100000?style=for-the-badge&logo=abstract&logoColor=white" alt="Architecture" />
 </p>
 
 ### What I've Been Building
